@@ -45,12 +45,12 @@ An astable multivibrator is a circuit that continuously switches between HIGH (1
 
 ## ================================
 
-![NOT Gate Circuit](image.png)
+![NOT Gate Circuit](../Images/image.png)
 
 **Controle '1' Enable**
-![Control '1' Enable](image-1.png)
+![Control '1' Enable](../Images/image-1.png)
 
 **Controle '0' Diable**
-![Control '0' Diable](image-2.png)
+![Control '0' Diable](../Images/image-2.png)
 
 
