@@ -90,9 +90,9 @@ Output = Input
 
 **Time Period**
 
-\[
-T = 2N \times T_{pd}
-\]
+```
+T = 2N * Tpd
+```
 
 Where
 
@@ -101,15 +101,15 @@ Where
 
 **Frequency**
 
-\[
-F = \frac{1}{T}
-\]
+```
+F = 1/T
+```
 
 or
 
-\[
-F = \frac{1}{2N \times T_{pd}}
-\]
+```
+F = 1 / (2N * Tpd)
+```
 
 ---
 
