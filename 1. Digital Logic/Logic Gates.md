@@ -178,3 +178,41 @@ A • 0 = 0
 ![NOT Gate Circuit](../Images/image.png)
 
 ---
+
+
+# Universal
+
+1.  A'B'
+2.  A' + B'
+3.  (A + B)'
+4.  A'B'
+5.  A' + B
+6.  A + B'
+7.  A'B
+8.  AB'
+9.  MUX
+10. Decoder + OR
+
+# X-OR gate:
+
+A⊕B=AˉB+ABˉ​    -> SOP
+A⊕B=(A+B)(Aˉ+Bˉ)​  -> POS
+
+# X-NOR gate:
+
+A⊙B=AB+AˉBˉ​
+A⊙B=(A+Bˉ)(Aˉ+B)​ 
+
+# NAND vs NOR — Gate Requirements
+
+| Gate | NAND | NOR |
+|------|:----:|:---:|
+| NOT  | 1 | 1 |
+| AND  | 2 | 3 |
+| OR   | 3 | 2 |
+| NAND | 1 | 4 |
+| NOR  | 4 | 1 |
+| XOR  | 4 | 5 |
+| XNOR | 5 | 4 |
+
+
