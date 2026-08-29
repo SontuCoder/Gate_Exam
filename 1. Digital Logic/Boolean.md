@@ -1,4 +1,3 @@
-````md
 # 🔢 Boolean Algebra & Logic Gates
 
 ---
@@ -418,4 +417,4 @@ We select `r` output combinations from the total `2ⁿ` possible input combinati
 > \[
 > {2^n \choose r}
 > \]
-````
+
