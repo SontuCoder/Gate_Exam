@@ -354,7 +354,6 @@ If the function contains exactly `r` minterms:
 ### Meaning
 
 We select `r` output combinations from the total `2ⁿ` possible input combinations.
-
 ---
 
 # 🎯 GATE CSE Quick Revision
